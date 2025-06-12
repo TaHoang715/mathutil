@@ -1,3 +1,4 @@
+[![Math Utility Project (CI included) | © 2025 by TaHoang715](https://github.com/TaHoang715/mathutil/actions/workflows/ci-script.yml/badge.svg)](https://github.com/TaHoang715/mathutil/actions/workflows/ci-script.yml)
 # Welcome to Math Utility Reporsitory
 
 ## You will find in this repo the following stuff:
