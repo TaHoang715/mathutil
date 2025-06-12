@@ -12,7 +12,7 @@
 ![TDD DDT test script](https://github.com/TaHoang715/mathutil/blob/main/screenshots/Maven%20Builder.png)
 
 ### Build app with Maven
-![TDD DDT test script](https://github.com/TaHoang715/mathutil/blob/main/screenshots/TDD_DDT%20with%20Junit.png.png)
+![TDD DDT test script](https://github.com/TaHoang715/mathutil/blob/main/screenshots/TDD_DDT%20with%20Junit.png)
 
 
 ### Connect me via: taminhhoang.nk@gmail.com
